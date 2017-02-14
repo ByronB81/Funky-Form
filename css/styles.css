@@ -1,0 +1,19 @@
+body {
+  background-color: yellow;
+}
+
+.jumbotron {
+  background-color: green;
+}
+
+.jumbotron h1 {
+  color: orange;
+}
+
+.jumbotron p {
+  color: orange;
+}
+
+#butty {
+  margin-top: 2em;
+}
